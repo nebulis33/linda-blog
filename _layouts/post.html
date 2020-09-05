@@ -1,0 +1,11 @@
+---
+layout: default
+---
+{% if post.image and post.image != "" %}
+    <div class="hero" style="background-image: url({{ post.image | absolute_url }}); alt={{ post.title }}">
+{% else %}
+    <div class="hero" style="background-image: url(/assets/hero.png); alt={{ post.title }}">
+{% endif %}
+<article>
+    {{ content }}
+</article>
