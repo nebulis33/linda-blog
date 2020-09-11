@@ -1,5 +1,10 @@
 ---
 ---
-p {
-    color: pink;
+@import "navbar.scss";
+@import "colors.scss";
+@import "home.scss";
+
+* {
+    margin: 0;
+    padding: 0;
 }

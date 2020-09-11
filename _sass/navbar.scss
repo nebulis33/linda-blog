@@ -1,0 +1,98 @@
+@import "colors.scss";
+
+/* Add background color to the top navigation */
+.topnav {
+    background: $nav-background; 
+    overflow: hidden;
+  }
+  
+  @media screen and (min-width: 700px) {
+    .topnav {
+      height: 50px;
+      display: flex;
+      align-items: center;
+    }
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: $nav-links-text;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+    .get_started {
+      float: right;
+      margin: 0 0 0 auto;
+      background: $subscribe-background;
+      border-radius: 10px;
+    }
+    a.get_started {
+      color: $subscribe-link-text;
+    }
+  
+  /* Add an active class to highlight the current page */
+  .active {
+    background-color: $active-page-link;
+    color: $active-page-link-text;
+  }
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+    display: none;
+  }
+  
+  /* Dropdown container - needed to position the dropdown content */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  /* Add a dark background on topnav links and the dropdown button on hover */
+  .topnav a:hover {
+    background-color: $nav-links-hover;
+    color: $nav-links-hover-text;
+  }
+  
+  .topnav a.get_started:hover {
+    background-color: $subscribe-link-hover;
+    color: $subscribe-link-hover-text;
+  }
+  
+  /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). 
+  Show the link that should open and close the topnav (.icon) */
+  @media screen and (max-width: 700px) {
+    .topnav a:not(:first-child) {
+      display: none;
+    }
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. 
+  This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+  @media screen and (max-width: 700px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive a.icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  } 
+  
+  @media screen and (min-width: 700px) {
+    a.get_started {
+      margin-right: 10px;
+      padding: 5px 10px;
+    }
+  }

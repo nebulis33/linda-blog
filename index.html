@@ -3,19 +3,25 @@ title: Home
 layout: default
 ---
 
-<section class="hero">
+<div class="hero">
     <!-- <img src="assets/hero.png" alt="Hero image">  https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images after css is written-->
-</section>
+</div>
 
 <section class="whats-new">
     <h2>Whats new</h2>
-    <p>This is where there will be annonicements for new stuff</p>
+    <p>This is an announcement of new things to see! Go checkout the page about stuff! yay, new stuff!</p>
+    <p>Just so everyone is aware, this is a new site</p>
 </section>
 
 
 <section class="latest">
     <h2>Latest Posts</h2>
-    {% include new_posts.html %}
+    {% for post in site.posts limit: 3 %}
+        <article class="post_preview">
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt }}</p>
+        </article>
+    {% endfor %}
 </section>
 
 <section class="about">
