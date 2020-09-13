@@ -9,22 +9,27 @@ layout: default
 
 <section class="whats-new">
     <h2>Whats new</h2>
-    <p>This is an announcement of new things to see! Go checkout the page about stuff! yay, new stuff!</p>
-    <p>Just so everyone is aware, this is a new site</p>
+    <ul>
+        <li>This is the first annoncement of the site, there is much to see and do we hope you enjoy it!</li>
+        <li>This is another announcement.</li>
+    </ul>
 </section>
 
 
 <section class="latest">
     <h2>Latest Posts</h2>
-    {% for post in site.posts limit: 3 %}
-        <article class="post_preview">
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <p>{{ post.excerpt }}</p>
-        </article>
-    {% endfor %}
+    <div class="cards">
+        {% for post in site.posts limit: 3 %}
+            <article onclick="location.href='{{ post.url }}';" style="cursor: pointer;" class="post_preview">
+                <h3>{{ post.title }}</h3>
+                <h4>{{ post.date | date: '%B %-d, %Y' }}</h4>
+                <p>{{ post.summary }}</p>
+            </article>
+        {% endfor %}
+    </div>
 </section>
 
 <section class="about">
     <h2>About Me</h2>
-    <p></p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum, amet enim! Aperiam adipisci soluta at commodi dolorem fugit maxime perspiciatis nisi vitae! Dicta nobis laboriosam voluptas. Ipsam totam iure in.</p>
 </section>

@@ -1,11 +1,57 @@
 ---
 layout: default
 ---
-{% if post.image and post.image != "" %}
-    <div class="hero" style="background-image: url({{ post.image | absolute_url }}); alt={{ post.title }}">
+<!-- {% if post.image and post.image != "" %}
+    <div class="hero" style="background-image: url({{ post.image | absolute_url }}); alt={{ post.title }}"></div>
 {% else %}
-    <div class="hero" style="background-image: url(/assets/hero.png); alt={{ post.title }}">
+    <div class="hero" style="background-image: url(/assets/hero-image.png); alt={{ post.title }}"></div>
 {% endif %}
-<article>
-    {{ content }}
-</article>
+ -->
+<main>
+    <div class="page-info">
+        <div class="title">
+            <h1>{{ page.title }}</h1>
+            <h4>{{ page.tagline }}</h4>
+            <div class="info">
+                <span class="date">{{ page.date | date: '%B %-d, %Y' }}</span>
+                <span class="pipe">|</span>
+                {% for tag in page.tags %}
+                    <a class="tag" href="">🏷️ {{ tag }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <article>
+        {{ content }}
+    </article>
+
+    <section class="social">
+        
+    </section>
+
+    <div class="further-reading">
+        {% if page.previous.url %}
+            <div class="more" id="previous">
+                <span class="arrow" id="left-arrow">&larr;</span>
+                <br>
+                <a href="{{ page.previous.url }}">
+                    {{ page.previous.title }}
+                </a>
+                <br>
+                <span class="other-post-tagline">{{ page.previous.tagline }}</span>
+            </div>
+        {% endif %}
+        {% if page.next.url %}
+            <div class="more" id="next">
+                <span class="arrow" id="right-arrow">&rarr;</span>
+                <br>
+                <a href="{{ page.next.url }}">
+                    {{ page.next.title }}
+                </a>
+                <br>
+                <span class="other-post-tagline">{{ page.next.tagline }}</span>
+            </div>
+        {% endif %}
+    </div>
+</main>

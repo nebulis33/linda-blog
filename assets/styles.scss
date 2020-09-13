@@ -1,10 +1,16 @@
 ---
 ---
-@import "navbar.scss";
-@import "colors.scss";
-@import "home.scss";
-
 * {
     margin: 0;
     padding: 0;
 }
+
+*::selection {
+    background-color: lightcoral;
+}
+
+@import "navbar.scss";
+@import "colors.scss";
+@import "home.scss";
+@import "typography.scss";
+@import "post.scss";

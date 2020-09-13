@@ -1,0 +1,80 @@
+@import "colors.scss";
+
+.page-info {
+    margin-top: 2em;
+}
+
+article {
+    padding: 4em 1.2em;
+}
+
+.page-info {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    display: flex;
+    justify-content: flex-start;
+    .date {
+        margin-right: 0.25em;
+    }
+    .pipe, .tag {
+        margin: 0 0.25em;
+    }
+}
+
+span.date, .pipe {
+    color: gray;
+}
+
+a.tag {
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    padding: 0 5px;
+    background: pink;
+    font-size: small;
+    &:hover{
+        background-color: lightblue;
+        transform: scale(1.2);
+    }
+}
+
+div.further-reading {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1.2em;
+}
+
+div.more {
+    background: lightgray;
+    border-radius: 10px;
+    margin-bottom: 0.5em;
+    padding: 0.25em;
+        .arrow {
+            font-weight: bold;
+        }
+}
+
+#right-arrow {
+    float: right;
+}
+
+@media (min-width: 650px){
+    article {
+        margin: 2em auto;
+        max-width: 700px;
+    }
+
+    div.further-reading {
+        margin: 0 auto;
+        max-width: 700px;
+        flex-direction: row;
+        .more {
+            max-width: 45%;
+        }
+    }
+}
