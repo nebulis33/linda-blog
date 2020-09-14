@@ -2,7 +2,6 @@
 layout: post
 title:  "Post 2"
 date:   2020-09-04 14:38:29 -0700
-categories: jekyll update
 tags: another-tag
 summary: "This is a post"
 tagline: "2nd post on Jekyll"

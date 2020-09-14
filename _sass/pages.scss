@@ -1,0 +1,79 @@
+@import "colors.scss";
+
+//This is the stylesheet for general pages styling and unique styling for individual pages
+
+section.content {
+    padding: 4em 1.2em;
+}
+
+//this is for the contact page
+.page-content {
+    margin: 0;
+    padding: 0;
+}
+
+.form-container {
+    margin: 2em auto;
+    max-width: 700px;
+}
+
+input[type=text], input[type=email], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid $input-text-area;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: $submit-button-background;
+    color: $submit-button-text;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: $submit-button-background-hover;
+    color: $submit-button-text-hover
+  }
+  
+  .form-container {
+    border-radius: 5px;
+    background-color: $form-container-background;
+    padding: 20px;
+  }
+
+//this is for the blog list page
+.post-list-card {
+    margin: 0;
+    margin-bottom: 3em;
+    padding: 0.5em;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+//this is for the published work page
+section.content ul li {
+  margin-top: 1em;
+  list-style: "📚  ";
+}
+
+h3#my-novels, h3#short-stories, h3#awards-and-recognition {
+  margin-top: 2em;
+}
+
+//mdei queries
+
+@media (min-width: 650px){
+    section.content {
+        margin: 2em auto;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        max-width: 700px;
+    }
+}

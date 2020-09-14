@@ -1,0 +1,35 @@
+---
+layout: page
+title: Contact
+permalink: /contact
+---
+
+<!-- Put this pages link in the footer  -->
+
+<article class="page-content">
+    If you would like to contact me feel free to email me at "email" or fill out the form.
+</article>
+
+<div class="form-container page-content">
+    <form name="contact" method="POST" data-netlify="true">
+      <label for="fname">Full Name</label>
+      <input type="text" id="fname" name="fullname" placeholder="Your name...">
+  
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" placeholder="Your email...">
+  
+      <label for="plan">Reason for Reaching Out</label>
+      <select id="plan" name="plan">
+        <option value="select" disabled selected>-- Choose one --</option>
+        <option value="Suggestions">Suggestions</option>
+        <option value="Questions">Questions</option>
+        <option value="Collaboration">Collaboration</option>
+        <option value="Other">Other</option>
+      </select>
+  
+      <label for="message">Message</label>
+      <textarea id="message" name="message" placeholder="Your message..." style="height:200px"></textarea>
+  
+      <input type="submit" value="Submit">
+    </form>
+  </div>

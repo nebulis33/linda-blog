@@ -1,0 +1,36 @@
+@import "colors.scss";
+
+footer {
+    background-color: $footer-background;
+    margin-top: 1.5em;
+}
+
+.links{
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    justify-content: center;
+    ul {
+        margin: 0;
+        padding: 0.5em 4em;
+    }
+    lh {
+        font-weight: bold;
+        color: $footer-link-head-color;
+    }
+    li {
+        list-style: none;
+    }
+    a{
+        font-size: 10pt;
+        color: $footer-link-text-color;
+    }
+}
+
+footer p {
+    display: block;
+    color: $footer-text-color;
+    margin: 0 auto 0 auto;
+    font-size: small;
+    text-align: center;
+}

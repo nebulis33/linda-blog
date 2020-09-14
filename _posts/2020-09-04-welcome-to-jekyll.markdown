@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-09-04 14:38:29 -0700
-categories: jekyll update
 tags: first tag
 summary: "This is a post about jekyll and how it works."
 tagline: "A page explaining the inner workings of jekyll"
