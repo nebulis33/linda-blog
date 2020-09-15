@@ -13,7 +13,7 @@ Many of us are schedulers, meaning we have a daily planner and we use it. We jot
 
 I realize I'm not telling you anything you don't already know or suspect, but we all need reminders, especially if we've gotten ourselves stuck in the "I can't find the time to write" mode. Shake it off and get writing! Yeah, easier said than done, right? Nope.
 
-Granted, there will be times when you absolutely must stomp all over the time you carved out to write on any given day, that's true of life. But keep it to a minimum. Don't let just any activity, event, daydream, phone call, nails in need of filing, dog barking in the background or internet rabbit hole throw you off course. Schedule that stuff for another time.
+Granted, there will be times when you absolutely must stomp all over the time you carved out to write on any given day, that's true of life. But keep it to a minimum. Don't let just any activity, event, daydream, phone call, nails in need of filing, a dog barking in the background, or internet rabbit hole throw you off course. Schedule that stuff for another time.
 
 ![girl chasing a rabbit into a cave](https://i1.wp.com/thedreamingwizard.com/images/site_graphics/6a00d8341ca6f253ef010535fec21b970b-800wi.jpg)
 
