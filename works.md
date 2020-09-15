@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Published Works
+title: Published Work
 permalink: /published-work
 ---
 

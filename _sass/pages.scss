@@ -58,16 +58,24 @@ input[type=text], input[type=email], select, textarea {
 }
 
 //this is for the published work page
+section.content ul {
+  margin: 1.5em;
+}
+
 section.content ul li {
   margin-top: 1em;
-  list-style: "📚  ";
+  list-style: "📚 ";
+}
+
+section.content ul:last-of-type li {
+  list-style: "🏆 ";
 }
 
 h3#my-novels, h3#short-stories, h3#awards-and-recognition {
   margin-top: 2em;
 }
 
-//mdei queries
+//media queries
 
 @media (min-width: 650px){
     section.content {
@@ -76,4 +84,12 @@ h3#my-novels, h3#short-stories, h3#awards-and-recognition {
         padding-bottom: 0;
         max-width: 700px;
     }
+}
+
+@media (min-width: 880px){
+  section.content ul {
+    margin: 0;
+    padding: 0;
+  }
+  
 }
