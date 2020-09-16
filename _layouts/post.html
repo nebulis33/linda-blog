@@ -12,13 +12,16 @@ layout: default
     <div class="page-info">
         <div class="title">
             <h1>{{ page.title }}</h1>
-            <h4>{{ page.tagline }}</h4>
+            <span class="tagline"><i>{{ page.tagline }}</i></span>
             <div class="info">
                 <span class="date">{{ page.date | date: '%B %-d, %Y' }}</span>
                 <span class="pipe">|</span>
                 {% for tag in page.tags %}
                     <a class="tag" href="">🏷️ {{ tag }}</a>
                 {% endfor %}
+                {% if page.category == "Archived" %}
+                <a class="tag" id="archived" href="">🗄️ Archived</a>
+                {% endif %}
             </div>
         </div>
     </div>
@@ -28,31 +31,8 @@ layout: default
     </article>
 
     <section class="social">
-        sharing buttons will go here
+        {% include share_buttons.html %}
     </section>
 
-    <div class="further-reading">
-        {% if page.previous.url %}
-            <div class="more" id="previous">
-                <span class="arrow" id="left-arrow">&larr;</span>
-                <br>
-                <a href="{{ page.previous.url }}">
-                    {{ page.previous.title }}
-                </a>
-                <br>
-                <span class="other-post-tagline">{{ page.previous.tagline }}</span>
-            </div>
-        {% endif %}
-        {% if page.next.url %}
-            <div class="more" id="next">
-                <span class="arrow" id="right-arrow">&rarr;</span>
-                <br>
-                <a href="{{ page.next.url }}">
-                    {{ page.next.title }}
-                </a>
-                <br>
-                <span class="other-post-tagline">{{ page.next.tagline }}</span>
-            </div>
-        {% endif %}
-    </div>
+    {% include post_navigation.html %}
 </main>

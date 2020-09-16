@@ -3,6 +3,7 @@ layout: post
 title:  Keep Going
 date:   2019-05-21 12:00:00 -0700
 tags: tag
+category: Archived
 summary: 'This is a post'
 tagline: 'tagline here'
 ---
@@ -25,7 +26,7 @@ This is a particularly inspiring portion of the message:
 
 > Every person sitting here has some kind of dream -- an idea of what their lives might look like. It could be a career goal, it could be an athletic achievement, it could be the place you want to live or the family that you hope to create. Here's the thing: Whisper it to yourself if you must, but say it out loud, put it out there -- don't curb your ambitions, don't tell yourself, 'I could never do that. I'm not good enough. It's too much.'
 >
-> My advice is really simple: Think big for yourself and then, just head in that general direction. Whether you arrive at the ideal destination is not even the point. The point is to be ambitious for your life \u2026 and then just, try.
+> My advice is really simple: Think big for yourself and then, just head in that general direction. Whether you arrive at the ideal destination is not even the point. The point is to be ambitious for your life... and then just, try.
 >
 > Now: of course, I can't know where your fulfillment and happiness will be found. I can't tell you where your dream is. Only you know that.
 >
@@ -33,7 +34,7 @@ This is a particularly inspiring portion of the message:
 >
 > Your blossoming and your growth -- which is to say, your success -- is always, always, inevitably, on the other side of a risk. It's on the other side of a bold choice. It's on the edge, waiting for you, on the other side of your fear.
 >
-> This is true whether it's career, or faith, a relationship, or love -- when you find it, it will only be after you've taken that big, giant, daring leap. It will be you, standing at the tip of a ravine, or maybe it's a tall cliff rising over a deep canyon \u2026 you're looking down and looking across, your heartbeat is rising, your sweat glands are pulsing. You will be here many times. You will be called to do this again and again and again.
+> This is true whether it's career, or faith, a relationship, or love -- when you find it, it will only be after you've taken that big, giant, daring leap. It will be you, standing at the tip of a ravine, or maybe it's a tall cliff rising over a deep canyon... you're looking down and looking across, your heartbeat is rising, your sweat glands are pulsing. You will be here many times. You will be called to do this again and again and again.
 >
 > And what you will find is -- your obstacles, your broken places, the spots where you've healed, the things you've overcome -- this is the source of your strength, and it also is the source of your beauty.
 

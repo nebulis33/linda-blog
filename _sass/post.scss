@@ -4,7 +4,12 @@
     margin-top: 2em;
 }
 
-article {
+.tagline {
+    display: block;
+    margin: 0.25em 0; 
+}
+
+article, section.social {
     padding: 4em 1.2em;
 }
 
@@ -33,8 +38,11 @@ a.tag {
     color: $tag-text;
     border-radius: 10px;
     padding: 0 5px;
-    background: $tag-text-background;
+    background-color: $tag-text-background;
     font-size: small;
+    &#archived {
+        background-color: $archive-tag-background;
+    }
     &:hover{
         background-color: $tag-background-hover;
         color: $tag-text-hover;
@@ -42,6 +50,92 @@ a.tag {
     }
 }
 
+// Blockquote CSS with media queries inspired by johnfinkdesign codepen
+blockquote{
+  border-left: 3px solid $quote-border-color;
+  color: $quote-text;
+//   font-family: Georgia, Times, "Times New Roman", serif;
+//   font-size: 1.25em;
+  font-style: italic;
+  line-height: 1.5em;
+  margin: 1.1em -4em;
+  padding: 0.5em 2em;
+  position: relative;
+  z-index: 0;
+    &:before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: -4px;
+        height: 2em;
+        background-color: white;
+        width: 5px;
+        margin-top: -1em;
+    }
+    &:after {
+        content: "\201C";
+        position: absolute;
+        top: 50%;
+        left: -0.5em;
+        color: $quote-border-color;
+        // font-family: "Ionicons";
+        font-style: normal;
+        line-height: 1.4em;
+        text-align: center;
+        text-indent: -2px;
+        width: 1em;
+        margin-top: -0.5em;
+    }
+}
+    
+//   cite
+//     display: block
+//     font-size: 0.75em
+//     line-height: 1.8em
+//     margin-top: 1em
+
+@media (max-width: 980px){
+  blockquote{
+    font-size: 1.1em;
+    margin: 1.1em -2em;
+    }
+}
+
+@media (max-width: 767px) {
+  blockquote {
+    border-top: 2px solid $quote-border-color;
+    border-bottom: 2px solid $quote-border-color;
+    border-left: none;
+    margin: 1.5em 0;
+    padding: 1.5em 1em;
+        &:before {
+        left: 50%;
+        top: 0;
+        height: 4px;
+        margin-top: -3px;
+        margin-left: -1em;
+        width: 2em;
+        }
+        &:after {
+        font-size: 1.2em;
+        left: 50%;
+        top: 0;
+        margin-top: -0.6em;
+        margin-left: -0.5em;
+        }
+    }
+}
+
+//images css
+p img{
+    display: block;
+    margin: 1.5em auto;
+    max-width: 100%;
+    max-height: 300px;
+    text-align: center;
+}
+
+//post navigation css
 div.further-reading {
     display: flex;
     flex-wrap: wrap;
@@ -70,12 +164,46 @@ div.more {
     float: right;
 }
 
+//social buttons
+section.social{
+    padding-top: 0;
+    h5 {
+        margin-bottom: 1em;
+    }
+    a {
+        color: white;
+        font-size: 1.5em;
+        padding: 0.5em;
+        &.facebook_share {
+            background-color: $facebook-share-background;
+        }
+        &.twitter_share {
+            background-color: $twitter-share-background;
+        }
+        &.linkedin_share {
+            background-color: $linkedin-share-background;
+        }
+        &.email_share {
+            background-color: $email-share-background;
+        }
+    }
+}
+
+//media queries
 @media (min-width: 650px){
     article {
         margin: 2em auto;
         margin-bottom: 0;
-        padding-bottom: 0;
+        padding: 0;
         max-width: 700px;
+    }
+
+    div.page-info {
+        padding: 1.5em 0;
+    }
+
+    div.more {
+        width: 50%;
     }
 
     div.further-reading {
@@ -84,6 +212,36 @@ div.more {
         flex-direction: row;
         .more {
             max-width: 45%;
+        }
+    }
+
+    section.social {
+        max-width: 700px;
+        margin: 0 auto;
+        padding-top: 1.5em;
+        h5 {
+            margin-bottom: 0.2em;
+        }
+        a {
+            font-size: 1em;
+            padding: 0.25em;
+        }
+        
+        i.fa-facebook-official:after{
+            content: " Facebook";
+            color: black;
+        }
+        i.fa-twitter:after{
+            content: " Twitter";
+            color: black;
+        }
+        i.fa-linkedin:after{
+            content: " LinkedIn";
+            color: black;
+        }
+        i.fa-envelope:after{
+            content: " Email";
+            color: black;
         }
     }
 }
