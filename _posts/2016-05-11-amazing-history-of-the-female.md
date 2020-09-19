@@ -2,9 +2,10 @@
 layout: post
 title:  Amazing History of the Female
 date:   2016-05-11 12:00:00 -0700
-tags: tag
-summary: 'This is a post'
-tagline: 'tagline here'
+tags: Opinion Information Women History
+category: Archived
+summary: 'The history of women as skilled warriors. Although men and women are different with different abilities, we are equal in that we can reach the same outcome to a problem even if we have different approaches. One sex is not better than the other, just different.'
+tagline: 'A celebration of the history of women.'
 ---
 
 There is a documentary called <cite><a href="http://www.ascentofwoman.com/the-series/" rel="nofollow">The Ascent of Woman</a></cite> that you can find on Netflix that I highly recommend. It tells of the power and place women held BEFORE it was taken away and our treatment as second-class citizens began. It's a fascinating account of how we, women, were not just gatherers or a womb for giving life, but we were also warriors and Empresses.

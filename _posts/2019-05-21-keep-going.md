@@ -2,10 +2,10 @@
 layout: post
 title:  Keep Going
 date:   2019-05-21 12:00:00 -0700
-tags: tag
+tags: Inspiration Goals Journey 
 category: Archived
-summary: 'This is a post'
-tagline: 'tagline here'
+summary: 'Inspiring words from Savanah Gutherie on goals and the journey toward them. It's not so much about the destination as it is about what we experience on our way there.'
+tagline: 'The growth we achieve as we work to attain our goals is in many ways worth more than the goal itself.'
 ---
 
 I heard Savanah Gutherie's commencement speech this morning as replayed on the Today show, and it was excellent. Her words not only apply to the 2019 grads she was addressing, but they resonate with all of us. I especially feel her words in my own zig-zagged path to being a writer and getting published.

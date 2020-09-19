@@ -2,9 +2,10 @@
 layout: post
 title:  Writing for Free Pays
 date:   2016-04-27 12:00:00 -0700
-tags: tag
-summary: 'This is a post'
-tagline: 'tagline here'
+tags: Writing Exposure Advice 
+category: Archived
+summary: 'Writing for money is valid and deserved, but it can be helpful to begin with writing for free. Exposure, experience and more will come when you get your writing out there. Pay will soon follow.'
+tagline: 'Writing for free can be a useful first step to paid success.'
 ---
 
 You've decided you want to start writing for magazines, but without experience and clips to highlight that experience, you find it difficult to break into the business. How can you possibly gain exposure and experience if no one will hire you without those two things?

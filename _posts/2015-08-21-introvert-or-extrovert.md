@@ -2,9 +2,10 @@
 layout: post
 title:  Introvert or Extrovert
 date:   2015-08-21 12:00:00 -0700
-tags: tag
-summary: 'This is a post'
-tagline: 'tagline here'
+tags: Introvert Extrovert Information
+category: Archived
+summary: 'The different types of introverts and extroverts and what it all boils down to.'
+tagline: 'Are you an introvert or an extrovert? Why should you care?'
 ---
 
 So many times I hear (or read) descriptions of introverts and extroverts and how people fall into one camp or the other. It always struck me as strange that I seemed to fall somewhere in the middle of these two camps. Was I just a weirdo? Well, that may be so, but as it turns out, most people fall somewhere in the middle. So these so-called quizzes that place you in one camp or another are simply not accurate. Phew! [Here is an article/blog](http://www.fastcompany.com/3016031/leadership-now/are-you-an-introvert-or-an-extrovert-and-what-it-means-for-your-career) I found that supports this very observation.

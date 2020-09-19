@@ -2,9 +2,10 @@
 layout: post
 title:  Creative life and frustration
 date:   2016-01-25 12:00:00 -0700
-tags: tag
-summary: 'This is a post'
-tagline: 'tagline here'
+tags: creative-people disappointment frustration inspiration persevere
+category: Archived
+summary: 'It's a fact of life that creative people have to learn to endure disappointment and frustration and persevere in order to survive and succeed.'
+tagline: 'Stand firm against disappointment and persevere through frustration.'
 ---
 
 > Learning to endure disappointment and frustration is part of the job of a creative person.

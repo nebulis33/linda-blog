@@ -2,9 +2,10 @@
 layout: post
 title:  Schedule Time to Write
 date:   2017-09-15 12:00:00 -0700
-tags: tag
-summary: 'This is a post'
-tagline: 'tagline here'
+tags: Writing Advice Scheduling Time-management
+category: Archived
+summary: 'A great way to make sure you write often and accomplish your goals is to schedule time to write into your daily planner. It's a wonderful way to help ensure you stay on track with your writing career.'
+tagline: 'Make time to write by putting it on your calendar. Easy challenge.'
 ---
 
 Many of us are schedulers, meaning we have a daily planner and we use it. We jot down every appointment, meeting, grocery shopping trip and more. So why not schedule our writing\xa0time on the calendar or planner? I can almost hear you saying, "Yeah, good question. Why not?"

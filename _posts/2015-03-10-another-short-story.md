@@ -2,9 +2,10 @@
 layout: post
 title:  Another Short Story
 date:   2015-03-10 12:00:00 -0700
-tags: tag
-summary: 'This is a post'
-tagline: 'tagline here'
+tags: short-stories writing learning how-to
+category: Archived
+summary: 'A brief piece on what you need to get started on writing short, fictional stories. It's easier than you think.'
+tagline: 'The beginning of a journey into writing short stories.'
 ---
 
 Okay, I've written yet another short story. A "real" short story, not a short, short for a contest entry. But I'm not going to print the story here or say what it's about (Ooh! How mysterious, right?). I'm mentioning it because as I take baby steps and sometimes giant, scary leaps into this "side adventure" of writing short stories while still working on my second novel, I hope and plan to share with you what I discover on my journey.

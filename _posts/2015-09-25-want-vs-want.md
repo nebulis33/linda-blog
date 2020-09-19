@@ -2,9 +2,10 @@
 layout: post
 title:  want vs. WANT
 date:   2015-09-25 12:00:00 -0700
-tags: tag
-summary: 'This is a post'
-tagline: 'tagline here'
+tags: Inspiration Wanting Achievement
+category: Archived
+summary: 'We don't always get what we want, but when we want it bad enough, we'll do the work to get it. That's when success is achieved.'
+tagline: 'Put the work into what you want and you'll likely get it.'
 ---
 
 You know the expression or saying, "you can do anything you want to do", or variations of that statement? How do you feel about the validity of that statement? I think, in case you were wondering, it is spot on correct, but only if you fully understand the value and parameters of the key word: want.

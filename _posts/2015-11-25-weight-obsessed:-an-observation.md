@@ -2,9 +2,10 @@
 layout: post
 title:  Weight obsessed an observation
 date:   2015-11-25 12:00:00 -0700
-tags: tag
-summary: 'This is a post'
-tagline: 'tagline here'
+tags: Health Advice Weight Body-image
+category: Archived
+summary: 'We as a society are bombarded on a regular basis with how to lose weight. To the point that even if you don't have a weight problem, you think you should. When we see and hear messages every day on how to lose weight, it's only natural we would begin to think we need to lose weight.'
+tagline: 'Not losing your mind in a weight-obsessed society.'
 ---
 
 Have you heard the reports lately about how, in spite of all the information that's been given to Americans about how to stay fit, we've been getting bigger? Are you surprised?

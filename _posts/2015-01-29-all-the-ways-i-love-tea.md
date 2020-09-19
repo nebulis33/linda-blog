@@ -2,9 +2,10 @@
 layout: post
 title:  All the Ways I Love Tea
 date:   2015-01-29 12:00:00 -0700
-tags: tag
-summary: 'This is a post'
-tagline: 'tagline here'
+tags: tea comfort well-being
+category: Archived
+summary: 'Tea plays many roles in our lives. It has the ability to offer energy or soothing comfort.'
+tagline: 'Tea as a source of comfort.'
 ---
 
 > There are few hours in life more agreeable than the hour dedicated to the ceremony known as <b>afternoon tea</b> - Henry James
