@@ -5,14 +5,18 @@
     padding: 0;
 }
 
-*::selection {
+::selection {
     background-color: lightcoral;
+}
+
+:focus {
+    border: 2px solid lightpink;
 }
 
 @import "navbar.scss";
 @import "colors.scss";
-@import "home.scss";
 @import "typography.scss";
+@import "home.scss";
 @import "post.scss";
 @import "pages.scss";
 @import "footer.scss";

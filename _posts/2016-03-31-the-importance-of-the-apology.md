@@ -4,8 +4,8 @@ title:  The Importance of the Apology
 date:   2016-03-31 12:00:00 -0700
 tags: Advice Apologizing Health
 category: Archived
-summary: 'Apologizing for a transgression isn't just good manners, it's healthy, both physically and mentally, if it's sincere. Even if the person we apologize to does not accept the apology. '
-tagline: 'The power of an apology.'
+summary: Apologizing for a transgression isn't just good manners, it's healthy, both physically and mentally, if it's sincere. Even if the person we apologize to does not accept the apology.
+tagline: The power of an apology.
 ---
 
 Have you ever had your feelings hurt by the words or actions of another? Sure you have -- we all have. It's part of the human experience. We've all endured the pain of someone saying or doing something unkind to us, or at least unkind according to our personal interpretations.

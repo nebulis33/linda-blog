@@ -4,8 +4,8 @@ title:  Summer Vacation Brain Funk
 date:   2015-08-11 12:00:00 -0700
 tags: funny brain-fog story
 category: Archived
-summary: 'Suffering from a bout of brain-fog or forgetfullness is never fun. Sometimes it's funny, though.'
-tagline: 'Is there a difference between brain-fog and stupidity? I hope so!'
+summary: Suffering from a bout of brain-fog or forgetfullness is never fun. Sometimes it's funny, though.
+tagline: Is there a difference between brain-fog and stupidity? I hope so!
 ---
 
 Some people forget to pack their shorts or extra underwear or hairspray when they go on vacation, but this summer I forgot to pack my brain.

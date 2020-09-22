@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Subscribe
+additional_tags: '<meta name="robots" content="noindex">'
 permalink: /subscribe
 ---
 
@@ -9,7 +10,7 @@ a new post as well as periodic updates exclusive to my newsletter sbscribers.  Y
 be kept private and never shared with any third parties.
 
 <div class="form-container">
-    <form name="subscribe" method="POST" action="https://tinyletter.com/LindaJuliano" target="popupwindow" onsubmit="window.open('https://tinyletter.com/LindaJuliano', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <form name="subscribe" aria-label="sign up for my newsletter" method="POST" action="https://tinyletter.com/LindaJuliano" target="popupwindow" onsubmit="window.open('https://tinyletter.com/LindaJuliano', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
       <label for="email">Email Address</label>
       <input type="email" id="email" name="_replyto" class="full-width"><br>
       <input type="submit" value="Subscribe!" class="button">

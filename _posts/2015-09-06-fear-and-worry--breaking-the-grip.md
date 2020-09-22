@@ -4,8 +4,8 @@ title:  Fear and Worry  breaking the grip
 date:   2015-09-06 12:00:00 -0700
 tags: Inspirational fear overcoming worry fear-vs-worry faith
 category: Archived
-summary: 'Fear and worry are close cousins and often go hand and hand, but one (fear) can be useful while the other (worry) is harmfull and will eat you from the inside out. Fear has a function, but worry is pointless, and will never make things better. There are a few things we can do to combat the ugly persistance of worry.'
-tagline: 'Don't let worry keep you in chains or rob you of joy.'
+summary: Fear and worry are close cousins and often go hand and hand, but one (fear) can be useful while the other (worry) is harmfull and will eat you from the inside out. Fear has a function, but worry is pointless, and will never make things better. There are a few things we can do to combat the ugly persistance of worry.
+tagline: Don't let worry keep you in chains or rob you of joy.
 ---
 
 Fear is not a shield. Fear is a hammer to the nail of pain. And worry is a completely useless activity.

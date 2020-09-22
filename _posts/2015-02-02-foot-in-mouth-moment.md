@@ -4,8 +4,8 @@ title:  Foot in mouth moment
 date:   2015-02-02 12:00:00 -0700
 tags: embarassment funny-story stupid-faux-pas
 category: Archived
-summary: 'Putting your foot in your mouth is never good, but it's worse when following a previous faux pas.'
-tagline: 'what not to do. Ever.'
+summary: Putting your foot in your mouth is never good, but it's worse when following a previous faux pas.
+tagline: what not to do. Ever.
 ---
 
 As I stood in Pete's waiting for my tea order, I noticed how few people were there that morning. In fact, I was first (and only) in line. Then a man walked in with a baby in the stroller and ordered a drink. Moments later, the barista made eye contact with me and assured me *my* drink would be ready in just a minute.

@@ -6,13 +6,17 @@
         <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
         <script src="/assets/js/site.js"></script>
 
+        <meta name="description" content="{{ page.description }}">
+        {% if page.additional_tags %}
+            {{ page.additional_tags }}
+        {% endif %}
+
         <meta property="og:url"                content="{{ site.url }}{{ page.url }}" />
         <meta property="og:type"               content="website" />
         <meta property="og:title"              content="Linda Juliano | {{ page.title }}" />
         <meta property="og:description"        content="The personal site of writer Linda Juliano." />
         <meta property="og:image"              content="/assets/hero-image.png" />
 
-        <title>{{ page.title }}</title>
+        <title>Linda Juliano | {{ page.title }}</title>
     </head>
     <body>
-        {% include header.html %}

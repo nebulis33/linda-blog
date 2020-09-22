@@ -4,8 +4,8 @@ title:  Another Short Story
 date:   2015-03-10 12:00:00 -0700
 tags: short-stories writing learning how-to
 category: Archived
-summary: 'A brief piece on what you need to get started on writing short, fictional stories. It's easier than you think.'
-tagline: 'The beginning of a journey into writing short stories.'
+summary: A brief piece on what you need to get started on writing short, fictional stories. It's easier than you think.
+tagline: The beginning of a journey into writing short stories.
 ---
 
 Okay, I've written yet another short story. A "real" short story, not a short, short for a contest entry. But I'm not going to print the story here or say what it's about (Ooh! How mysterious, right?). I'm mentioning it because as I take baby steps and sometimes giant, scary leaps into this "side adventure" of writing short stories while still working on my second novel, I hope and plan to share with you what I discover on my journey.
@@ -34,8 +34,6 @@ I haven't been a fan of reading short stories in the past, but when I found myse
 
 I sum it up this way because, being someone who likes precise instruction, I read through books about how to write short stories only to find I already knew all that stuff. Not to say I'm a know-it-all, but to express that if you know how to form fiction into a story, you are ready to write a short story (or novel!). So get to it. Take on the task with confidence and knowledge that you already possess what it takes. And keep reading! Long or short, doesn't matter. Reading is your teacher.
 
-So, aspiring short-story writers, I leave you know with a book recommendation. An oldie but very goodie. Guy de Maupassant. His personal story is tragic, but his short story collections are wonderful. Read and learn. It's better than any "how-to" you'll read.
-
-<a href="http://americanliterature.com/author/guy-de-maupassant/bio-books-stories" rel="nofollow">http://americanliterature.com/author/guy-de-maupassant/bio-books-stories</a>
+So, aspiring short-story writers, I leave you now with a writer recommendation. An oldie but very goodie. [Guy de Maupassant](http://americanliterature.com/author/guy-de-maupassant/bio-books-stories). His personal story is tragic, but his short story collections are wonderful. Read and learn. It's better than any "how-to" you'll read.
 
 Enjoy!

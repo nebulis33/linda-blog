@@ -4,8 +4,8 @@ title:  How to Destroy Writers Block
 date:   2017-01-26 12:00:00 -0700
 tags: Writing Advice Writer's-block
 category: Archived
-summary: 'There are real steps you can take to combat writer's block, or just not wanting to write while needing to write.'
-tagline: 'How to write when you aren't in the mood to write.'
+summary: There are real steps you can take to combat writer's block, or just not wanting to write while needing to write.
+tagline: How to write when you aren't in the mood to write.
 ---
 
 Every writer experiences those days (or weeks) when we just can't seem to write, or at least we can't seem to write anything "substantial". Technically speaking, we can always write, put words to paper. It's writing what we *want* that doesn't always come easily, or sometimes at all.

@@ -4,8 +4,8 @@ title:  Writing inspiration
 date:   2015-02-10 12:00:00 -0700
 tags: Reading Writing Inspiration book-list
 category: Archived
-summary: 'Reading books is a huge source of inspiration for writing them. Here you'll find some examples of a few books that have inspired my writing.'
-tagline: 'Find what inspires you.'
+summary: Reading books is a huge source of inspiration for writing them. Here you'll find some examples of a few books that have inspired my writing.
+tagline: Find what inspires you.
 ---
 
 What inspires me to write?

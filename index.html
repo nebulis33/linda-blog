@@ -1,37 +1,40 @@
 ---
-title: Home
+title: Linda Juliano | Home
 layout: default
 ---
 
 {% include page_head.html %}
 
-<div class="hero">
-    <!-- <img src="assets/hero.png" alt="Hero image">  https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images after css is written-->
-</div>
+{% include nav.html %}
 
-<section class="whats-new">
-    <h2>Whats new</h2>
-    <ul>
-        <li>This is the first annoncement of the site, there is much to see and do we hope you enjoy it!</li>
-        <li>This is another announcement.</li>
-    </ul>
-</section>
-
-
-<section class="latest">
-    <h2>Latest Posts</h2>
-    <div class="cards">
-        {% for post in site.posts limit: 3 %}
-            <article onclick="location.href='{{ post.url }}';" style="cursor: pointer;" class="post_preview">
-                <h3>{{ post.title }}</h3>
-                <h4>{{ post.date | date: '%B %-d, %Y' }}</h4>
-                <p>{{ post.summary }}</p>
-            </article>
-        {% endfor %}
+<main>
+    <div class="hero">
     </div>
-</section>
 
-<section class="about">
-    <h2>About Me</h2>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum, amet enim! Aperiam adipisci soluta at commodi dolorem fugit maxime perspiciatis nisi vitae! Dicta nobis laboriosam voluptas. Ipsam totam iure in.</p>
-</section>
+    <section class="whats-new">
+        <h2>Whats new</h2>
+        <ul>
+            <li>My newsletter has just launched aside this redesigned site. Visit the <a href="/subscribe">subscribe page</a> to sign up!</li>
+            <li>I was recently published in xyz magazine, check it out!</li>
+        </ul>
+    </section>
+
+
+    <section class="latest">
+        <h2>Latest Posts</h2>
+        <div class="cards">
+            {% for post in site.posts limit: 3 %}
+                <article onclick="location.href='{{ post.url }}';" onkeydown= "if(event.keyCode == 13)location.href='{{ post.url }}';" style="cursor: pointer;" tabindex=0 class="post_preview">
+                    <h3>{{ post.title }}</h3>
+                    <h4>{{ post.date | date: '%B %-d, %Y' }}</h4>
+                    <p>{{ post.summary }}</p>
+                </article>
+            {% endfor %}
+        </div>
+    </section>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>Welcome to my site!  My name is Linda Juliano and im a full time, published author.  Read more about me on my <a href="/about">About page</a>!</p>
+    </section>
+</main>

@@ -4,8 +4,8 @@ title:  A Journey Through Self-Doubt
 date:   2017-03-01 12:00:00 -0700
 tags: Writing Advice Inspiration Self-doubt Perseverence Criticism
 category: Archived
-summary: 'We all suffer self-doubt as people, but specifically, as writers. Using criticism and self-doubt as tools to better your writing is important, but perseverence is vital.'
-tagline: 'Never giving up means taking the pain with the glory.'
+summary: We all suffer self-doubt as people, but specifically, as writers. Using criticism and self-doubt as tools to better your writing is important, but perseverence is vital.
+tagline: Never giving up means taking the pain with the glory.
 ---
 
 I am participating in the Writing Contest: *You Deserve to be Inspired*. Hosted by [Positive Writer](http://positivewriter.com/writing-contest-you-deserve-to-be-inspired/).

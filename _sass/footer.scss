@@ -3,6 +3,10 @@
 footer {
     background-color: $footer-background;
     margin-top: 1.5em;
+    a{
+        font-size: 10pt;
+        color: $footer-link-text-color;
+    }
 }
 
 .links{
@@ -21,12 +25,7 @@ footer {
     li {
         list-style: none;
     }
-    a{
-        font-size: 10pt;
-        color: $footer-link-text-color;
-    }
 }
-
 footer p {
     display: block;
     color: $footer-text-color;

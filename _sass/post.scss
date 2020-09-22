@@ -2,11 +2,21 @@
 
 .page-info {
     margin-top: 2em;
+    padding: 0 1.2em;
+}
+
+.title {
+    margin: 0 auto 0 0;
 }
 
 .tagline {
     display: block;
-    margin: 0.25em 0; 
+    margin: 0.25em 0;
+}
+
+.tagline, .date {
+    font-family: 'Josefin Slab', serif;
+    font-weight: 400;
 }
 
 article, section.social {
@@ -20,9 +30,12 @@ article, section.social {
 
 .info {
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
     justify-content: flex-start;
     .date {
         margin-right: 0.25em;
+        width: max-content;
     }
     .pipe, .tag {
         margin: 0 0.25em;
@@ -48,6 +61,15 @@ a.tag {
         color: $tag-text-hover;
         transform: scale(1.2);
     }
+}
+
+p {
+    margin-bottom: 1.2em;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    font-family: 'Josefin Slab', serif;
 }
 
 // Blockquote CSS with media queries inspired by johnfinkdesign codepen
@@ -87,12 +109,6 @@ blockquote{
         margin-top: -0.5em;
     }
 }
-    
-//   cite
-//     display: block
-//     font-size: 0.75em
-//     line-height: 1.8em
-//     margin-top: 1em
 
 @media (max-width: 980px){
   blockquote{
@@ -190,8 +206,8 @@ section.social{
 }
 
 //media queries
-@media (min-width: 650px){
-    article {
+@media (min-width: 750px){
+    article, .page-info {
         margin: 2em auto;
         margin-bottom: 0;
         padding: 0;

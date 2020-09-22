@@ -1,3 +1,4 @@
+@import "colors.scss";
 
 .hero {
     background-image: url("/assets/hero-image.png");
@@ -23,7 +24,7 @@ h2 {
 }
 
 .latest {
-    background: lightblue;
+    background-color: $latest-posts-background;
     .cards {
         display: flex;
         flex-direction: row;
@@ -31,17 +32,27 @@ h2 {
         justify-content: space-evenly;
      }
     article {
-        background: white;
+        background-color: $latest-posts-cards-background;
+        color: $latest-posts-cards-text;
         border-radius: 10px;
         flex-basis: 30%;
         min-width: 300px;
         height: 250px;
         margin: 0.55em;
         padding: 0.5em;
+        transition: all 0.2s ease-in-out;
+        box-shadow: 5px 5px 5px #8888886c;
+        &:hover {
+            background-color: $latest-posts-cards-background-hover;
+            color: $latest-posts-cards-text-hover;
+            transform: scale(1.025);
+        }
+        &:active {
+            background-color: hotpink;
+        }
     }
 
 }
-
 
 
 

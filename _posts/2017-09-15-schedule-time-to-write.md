@@ -4,11 +4,11 @@ title:  Schedule Time to Write
 date:   2017-09-15 12:00:00 -0700
 tags: Writing Advice Scheduling Time-management
 category: Archived
-summary: 'A great way to make sure you write often and accomplish your goals is to schedule time to write into your daily planner. It's a wonderful way to help ensure you stay on track with your writing career.'
-tagline: 'Make time to write by putting it on your calendar. Easy challenge.'
+summary: A great way to make sure you write often and accomplish your goals is to schedule time to write into your daily planner. It's a wonderful way to help ensure you stay on track with your writing career.
+tagline: Make time to write by putting it on your calendar. Easy challenge.
 ---
 
-Many of us are schedulers, meaning we have a daily planner and we use it. We jot down every appointment, meeting, grocery shopping trip and more. So why not schedule our writing\xa0time on the calendar or planner? I can almost hear you saying, "Yeah, good question. Why not?"
+Many of us are schedulers, meaning we have a daily planner and we use it. We jot down every appointment, meeting, grocery shopping trip and more. So why not schedule our writing time on the calendar or planner? I can almost hear you saying, "Yeah, good question. Why not?"
 
 *Finding Time* to Write is important, but *making time* to write is imperative. If you write only when you find the time, you'll likely never finish anything, or at the very least, it will take you far longer to complete that writing project than necessary. And who has time, really, for that? We are all busy, so time is important, don't let it slip away.
 
@@ -18,7 +18,7 @@ Granted, there will be times when you absolutely must stomp all over the time yo
 
 ![girl chasing a rabbit into a cave](https://i1.wp.com/thedreamingwizard.com/images/site_graphics/6a00d8341ca6f253ef010535fec21b970b-800wi.jpg)
 
-"But it's hard to stay focused with so much to do" you might say. And I say, "You must if you want your writing career to get anywhere, or finish that novel or even short story." Remember, it may be short, but it takes plenty of time to\xa0mold into perfection.
+"But it's hard to stay focused with so much to do" you might say. And I say, "You must if you want your writing career to get anywhere, or finish that novel or even short story." Remember, it may be short, but it takes plenty of time to mold into perfection.
 
 So, how do you insure (for the most part) that you write as often as you'd like, or as often as you need? It's not magic, and you don't even need to build some elaborate machine that shocks you every time you even *think* about leaving your chair. I mean you could do that, but there is an easier way: you schedule it! Like anything else that's important to you.
 

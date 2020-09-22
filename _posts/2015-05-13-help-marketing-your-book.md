@@ -4,8 +4,8 @@ title:  Help marketing your book
 date:   2015-05-13 12:00:00 -0700
 tags: Writing marketing advice
 category: Archived
-summary: 'One step of many on the marketing side of being a writer.'
-tagline: 'Start learning how to market your books.'
+summary: One step of many on the marketing side of being a writer.
+tagline: Start learning how to market your books.
 ---
 
 As an Indie author I'm fully aware of the difficulties of getting your book noticed. I'd just like to create stories and have the marketing end of things fall magically into place. Is that so much to ask? I'm guessing yes. Unfortunately, to get readers to gravitate to your book, you need to be "known" or have excellent marketing skills. I can assure you, I don't claim either point. But I do what I can, learning as I go, and I like to share what I know.

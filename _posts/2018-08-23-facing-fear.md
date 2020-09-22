@@ -4,8 +4,8 @@ title:  Facing Fear
 date:   2018-08-23 12:00:00 -0700
 tags: Fear Inspiration Personal-growth Courage
 category: Archived
-summary: 'Fear is a useful tool for keeping us alive, but it can also hold us back. Push boundries and take chances that cause you to step out of your comfort zone.'
-tagline: 'Fear as inspiration instead of a roadblock.'
+summary: Fear is a useful tool for keeping us alive, but it can also hold us back. Push boundries and take chances that cause you to step out of your comfort zone.
+tagline: Fear as inspiration instead of a roadblock.
 ---
 
 It's been a very long time since I've updated/posted a message on this blog, but I have a message I want to share that I believe will be helpful in some way to many people. It's not a new message by any means, but one that is worth repeating.

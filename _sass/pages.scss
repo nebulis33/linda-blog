@@ -6,6 +6,15 @@ section.content {
     padding: 4em 1.2em;
 }
 
+div.hero h1 {
+  position: relative;
+  top: 36%;
+  margin: auto;
+  padding: 0.25em;
+  background-color: hotpink;
+  width: max-content;
+}
+
 //this is for the contact page
 .page-content {
     margin: 0;
@@ -48,22 +57,14 @@ input[type=text], input[type=email], select, textarea {
     padding: 20px;
   }
 
-//this is for the blog list page
-.post-list-card {
-    margin: 0;
-    margin-bottom: 3em;
-    padding: 0.5em;
-    background-color: lightgray;
-    border-radius: 10px;
-}
-
-//this is for the published work page
-section.content ul {
-  margin: 1.5em;
-}
-
-section.content ul li {
-  margin-top: 1em;
+  
+  //this is for the published work page
+  section.content ul {
+    margin: 1.5em;
+  }
+  
+  section.content ul li {
+    margin-top: 1em;
   list-style: "📚 ";
 }
 
@@ -73,6 +74,39 @@ section.content ul:last-of-type li {
 
 h3#my-novels, h3#short-stories, h3#awards-and-recognition {
   margin-top: 2em;
+}
+
+//this is for the blog list page
+.post-list-card {
+    margin: 0;
+    margin-bottom: 3em;
+    padding: 0.5em;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+div.pagination {
+  text-align: center;
+  span, a {
+    margin: 0 -3px;
+    padding: 0.5em;
+    border: 1px solid gray;
+  }
+  .paginator-nav {
+    color: pink;
+  }
+  .current-paginator-page {
+    background-color: red;
+  }
+  .paginator-pages {
+    background-color: mediumpurple;
+  }
+  .paginator-nav-active {
+    background-color: yellow;
+  }
+  .paginator-nav-inactive {
+    background-color: orange;
+  }
 }
 
 //media queries
