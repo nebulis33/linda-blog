@@ -1,21 +1,24 @@
 //navbar colors
-$nav-background: rgba(117,178,255,1) 100%;
+$nav-background: #6D7245;
 $nav-links-text: white;
-$nav-links-hover: rgb(77, 151, 241);
+$nav-links-hover: #949A69;
 $nav-links-hover-text: white;
-$subscribe-background: #FFFEB0;
+$subscribe-background: #D8E4FF;
 $subscribe-link-text: black;
-$subscribe-link-hover: rgb(204, 201, 15);
+$subscribe-link-hover: #FDE2AF;
 $subscribe-link-hover-text: white;
 $active-page-link-background: green;
 $active-page-link-text: white;
 
 //home page colors
-$latest-posts-background: lightblue;
+$latest-posts-background: #C1CEB2;
 $latest-posts-cards-background: white;
 $latest-posts-cards-text: black;
-$latest-posts-cards-background-hover: green;
+$latest-posts-cards-background-hover: #7A8F62;
 $latest-posts-cards-text-hover: white;
+
+//colors for page titles
+$page-title-background: #E3D6DB;
 
 //colors for contact page
 $form-container-background: #f2f2f2;
@@ -25,6 +28,14 @@ $submit-button-text: white;
 $submit-button-background-hover: #45a049;
 $submit-button-text-hover: white;
 
+//colors for blog page
+$blog-post-cards-background: #C1CEB2;
+$pagination-nav-text: black;
+$pagination-current-background: #885D6E;
+$pagination-pages-background: #E3D6DB;
+$pagination-nav-clickable-background: #C4AAB4;
+$pagination-nav-non-clickable-background: lightgray;
+
 //colors for posts
 $date-color: grey;
 $tag-text: black;
@@ -32,12 +43,12 @@ $tag-text-background: pink;
 $tag-text-hover: black;
 $tag-background-hover: lightblue;
 $archive-tag-background: lightgray;
-$more-posts-background: lightgreen;
+$more-posts-background:#C1CEB2;
 $more-posts-text: black;
-$more-posts-background-hover: darkgreen;
+$more-posts-background-hover: #576A40;
 $more-posts-text-hover: white;
 
-$quote-border-color: blue;
+$quote-border-color: #C1CEB2;
 $quote-text: black;
 
 $facebook-share-background: #4267B2;
@@ -46,7 +57,7 @@ $linkedin-share-background: #0e76a8;
 $email-share-background: lightgray;
 
 //colors for footer
-$footer-background: #475cc4;
+$footer-background: #7A8F62;
 $footer-link-head-color: white;
 $footer-link-text-color: white;
 $footer-text-color: white;

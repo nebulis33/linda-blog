@@ -63,12 +63,12 @@ a.tag {
     }
 }
 
-p {
+.blog-post  > article p {
     margin-bottom: 1.2em;
     font-family: 'Roboto Mono', monospace;
 }
 
-h1{
+.blog-post h1{
     font-family: 'Josefin Slab', serif;
 }
 

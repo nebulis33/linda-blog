@@ -1,6 +1,12 @@
 @import "colors.scss";
 
 //This is the stylesheet for general pages styling and unique styling for individual pages
+.hero {
+  background-image: url("/assets/hero-image.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 47vh;
+}
 
 section.content {
     padding: 4em 1.2em;
@@ -8,11 +14,24 @@ section.content {
 
 div.hero h1 {
   position: relative;
-  top: 36%;
-  margin: auto;
+  top: 34%;
+  margin: 0 auto;
   padding: 0.25em;
-  background-color: hotpink;
+  padding-top: 0.5em;
+  background-color: $page-title-background;
   width: max-content;
+}
+
+p, li {
+  font-family: 'Roboto Mono', monospace;
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+h1, h2, h3, h4, h5, lh {
+  font-family: 'Josefin Slab', serif;
 }
 
 //this is for the contact page
@@ -81,7 +100,7 @@ h3#my-novels, h3#short-stories, h3#awards-and-recognition {
     margin: 0;
     margin-bottom: 3em;
     padding: 0.5em;
-    background-color: lightgray;
+    background-color: $blog-post-cards-background;
     border-radius: 10px;
 }
 
@@ -93,19 +112,19 @@ div.pagination {
     border: 1px solid gray;
   }
   .paginator-nav {
-    color: pink;
+    color: $pagination-nav-text;
   }
   .current-paginator-page {
-    background-color: red;
+    background-color: $pagination-current-background;
   }
   .paginator-pages {
-    background-color: mediumpurple;
+    background-color: $pagination-pages-background;
   }
   .paginator-nav-active {
-    background-color: yellow;
+    background-color: $pagination-nav-clickable-background;
   }
   .paginator-nav-inactive {
-    background-color: orange;
+    background-color: $pagination-nav-non-clickable-background;
   }
 }
 
