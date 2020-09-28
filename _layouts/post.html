@@ -19,7 +19,7 @@ layout: default
                 <span class="date">{{ page.date | date: '%B %-d, %Y' }}</span>
                 <span class="pipe">|</span>
                 {% for tag in page.tags %}
-                    <a class="tag" href="">🏷️ {{ tag }}</a>
+                    <a class="tag" href="/tags#{{ tag }}">🏷️ {{ tag }}</a>
                 {% endfor %}
                 {% if page.category == "Archived" %}
                 <a class="tag" id="archived" href="">🗄️ Archived</a>
