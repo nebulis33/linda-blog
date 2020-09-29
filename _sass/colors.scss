@@ -1,39 +1,41 @@
 //navbar colors
-$nav-background: #6D7245;
+$nav-background: #86b386;
 $nav-links-text: white;
-$nav-links-hover: #949A69;
+$nav-links-hover: #5e7d5e;
 $nav-links-hover-text: white;
-$subscribe-background: #D8E4FF;
-$subscribe-link-text: black;
-$subscribe-link-hover: #FDE2AF;
+$subscribe-background: #b38686;
+$subscribe-link-text: white;
+$subscribe-link-hover: #7d5e5e;
 $subscribe-link-hover-text: white;
 $active-page-link-background: green;
 $active-page-link-text: white;
 
 //home page colors
-$latest-posts-background: #C1CEB2;
+$latest-posts-background: #86b386;
 $latest-posts-cards-background: white;
 $latest-posts-cards-text: black;
-$latest-posts-cards-background-hover: #7A8F62;
-$latest-posts-cards-text-hover: white;
+$latest-posts-cards-background-hover: #efffef;
+$latest-posts-cards-text-hover: black;
 
 //colors for page titles
-$page-title-background: #E3D6DB;
+$page-title-background: #b38686;
+$page-title-text: white;
 
 //colors for contact page
 $form-container-background: #f2f2f2;
 $input-text-area: #ccc;
-$submit-button-background: green;
+$submit-button-background: #b38686;
 $submit-button-text: white;
-$submit-button-background-hover: #45a049;
+$submit-button-background-hover: #7d5e5e;
 $submit-button-text-hover: white;
 
 //colors for blog page
-$blog-post-cards-background: #C1CEB2;
+$blog-post-cards-background: #86b386c4;
 $pagination-nav-text: black;
-$pagination-current-background: #885D6E;
-$pagination-pages-background: #E3D6DB;
-$pagination-nav-clickable-background: #C4AAB4;
+$pagination-current-background: #7d5e5e;
+$pagination-pages-background: #b38686;
+$pagination-nav-clickable-background: #b38686;
+$pagination-elements-text: white;
 $pagination-nav-non-clickable-background: lightgray;
 
 //colors for posts
@@ -43,12 +45,12 @@ $tag-text-background: pink;
 $tag-text-hover: black;
 $tag-background-hover: lightblue;
 $archive-tag-background: lightgray;
-$more-posts-background:#C1CEB2;
+$more-posts-background:#b38686;
 $more-posts-text: black;
-$more-posts-background-hover: #576A40;
+$more-posts-background-hover: #7d5e5e;
 $more-posts-text-hover: white;
 
-$quote-border-color: #C1CEB2;
+$quote-border-color: #b38686;
 $quote-text: black;
 
 $facebook-share-background: #4267B2;
@@ -57,7 +59,7 @@ $linkedin-share-background: #0e76a8;
 $email-share-background: lightgray;
 
 //colors for footer
-$footer-background: #7A8F62;
+$footer-background: #86b386;
 $footer-link-head-color: white;
 $footer-link-text-color: white;
 $footer-text-color: white;

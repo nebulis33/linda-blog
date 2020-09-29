@@ -131,5 +131,10 @@ html {
   }
 
   //Font styles here
+  p, li {
+    font-family: 'Roboto Mono', monospace;
+  }
 
-  
+  h1, h2, h3, h4, h5, lh {
+    font-family: 'Josefin Slab', serif;
+  }

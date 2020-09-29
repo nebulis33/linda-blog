@@ -21,19 +21,13 @@ div.hero h1 {
   padding: 0.25em;
   padding-top: 0.5em;
   background-color: $page-title-background;
+  color: $page-title-text;
+  border-radius: 5px;
   width: max-content;
-}
-
-p, li {
-  font-family: 'Roboto Mono', monospace;
 }
 
 p {
   margin-bottom: 1.2em;
-}
-
-h1, h2, h3, h4, h5, lh {
-  font-family: 'Josefin Slab', serif;
 }
 
 //this is for the contact page
@@ -118,16 +112,26 @@ div.pagination {
   }
   .current-paginator-page {
     background-color: $pagination-current-background;
+    color: $pagination-elements-text;
   }
   .paginator-pages {
     background-color: $pagination-pages-background;
+    color: $pagination-elements-text;
   }
   .paginator-nav-active {
     background-color: $pagination-nav-clickable-background;
+    color: $pagination-elements-text;
   }
   .paginator-nav-inactive {
     background-color: $pagination-nav-non-clickable-background;
   }
+}
+
+div.pagination > :first-child {
+  border-radius: 5px 0 0 5px;
+}
+div.pagination > :last-child {
+  border-radius: 0 5px 5px 0;
 }
 
 //This is the styling for the tag page
