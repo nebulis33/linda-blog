@@ -34,4 +34,4 @@ Please feel free to share any stories of your own personal growth experience aft
 
 To my fellow writers and authors, keep on pushing. The fear may not subside, but your courage will grow with every push. And successes will come more often!
 
-![success written in the sand on a beach](https://cdn.pixabay.com/photo/2016/12/15/19/16/success-1909823_960_720.jpg)
+![The words do something great as a neon sign](/assets/images/do-something-great.jpg)

@@ -14,8 +14,6 @@ It's been my experience that writers (or artists in general) are often cursed wi
 
 My latest bout with self-doubt had me sitting on the floor for thirty minutes, staring at the rug while contemplating quitting writing, tears pouring unchecked down my face. I couldn't see anymore why I should continue to put myself through all the torture of trying to make it in the biz. But, the thought of giving up as a writer opened a hole of despair so deep, it was frightening.
 
-![woman crying](https://s-media-cache-ak0.pinimg.com/236x/89/21/c1/8921c12a2fed7b30c017056d4a0f7738.jpg)
-
 I felt trapped. It was tortuous to continue writing, yet impossible to quit. The problem is, I love to write, to create fictional people and situations. But I also want to entertain others with that writing, give them something to enjoy, that touches their life in some way. Yes, I love to write, but I don't love to spend hours upon hours, sweating over my creations purely for my own reading entertainment.
 
 A couple of weeks earlier, I'd received a note from an e-zine (on-line magazine) editor about a short story I'd submitted. It was a rejection letter with a piece of advice. Pure gold! It's rare to receive feedback on a submission outside of a form rejection, and I was thrilled with the opportunity to learn anything that will help me advance in my craft.

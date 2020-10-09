@@ -16,13 +16,9 @@ I realize I'm not telling you anything you don't already know or suspect, but we
 
 Granted, there will be times when you absolutely must stomp all over the time you carved out to write on any given day, that's true of life. But keep it to a minimum. Don't let just any activity, event, daydream, phone call, nails in need of filing, a dog barking in the background, or internet rabbit hole throw you off course. Schedule that stuff for another time.
 
-![girl chasing a rabbit into a cave](https://i1.wp.com/thedreamingwizard.com/images/site_graphics/6a00d8341ca6f253ef010535fec21b970b-800wi.jpg)
-
 "But it's hard to stay focused with so much to do" you might say. And I say, "You must if you want your writing career to get anywhere, or finish that novel or even short story." Remember, it may be short, but it takes plenty of time to mold into perfection.
 
 So, how do you insure (for the most part) that you write as often as you'd like, or as often as you need? It's not magic, and you don't even need to build some elaborate machine that shocks you every time you even *think* about leaving your chair. I mean you could do that, but there is an easier way: you schedule it! Like anything else that's important to you.
-
-![lie detector test](https://i1.wp.com/static.tvtropes.org/pmwiki/pub/images/meettheparents_lie_detector.jpg)
 
 Schedule, schedule, schedule.
 

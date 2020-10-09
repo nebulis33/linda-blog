@@ -12,7 +12,7 @@ I heard Savanah Gutherie's commencement speech this morning as replayed on the T
 
 The goals are never-ending for me. I reach one, pause to celebrate for a minute, then push forward to the next. But in doing this, I often forget that, as Savanaha basically says, the journey is the destination.
 
-![picture of someone walking up a hill](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnOPHo0DnoZf2eGP7cCJck21A4OgY540_j_RpNTJXiIyH-YQEmQ)
+![picture of a person with a sunset in the background](/assets/images/person-in-sunset.jpg)
 
 As a writer, I speak to fellow writers who struggle with their path for various reasons that often change day to day. This speech will inspire you to keep going. But I also share this as a person living this thing called life. We can all use these inspiring words to keep us going.
 
@@ -38,7 +38,7 @@ This is a particularly inspiring portion of the message:
 >
 > And what you will find is -- your obstacles, your broken places, the spots where you've healed, the things you've overcome -- this is the source of your strength, and it also is the source of your beauty.
 
-![person victoriously climbing a mountain](https://i0.wp.com/allume.com/wp-content/uploads/2012/09/mountain_climbing.jpg)
+![person victoriously sitting on the summit of a mountain](/assets/images/summited-mountain.jpg)
 
 If you'd like to see a video of her full speech or simply read the full thing, go to the [Today Show page](https://www.today.com/news/read-savannah-s-guthries-full-graduation). It's worth the read.
 
