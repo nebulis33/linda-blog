@@ -3,7 +3,6 @@ layout: page
 title: About
 description: Learn more about author Linda Juliano
 permalink: "/about"
-published: false
 
 ---
 <img src="/assets/linda.jpg" height="200" width="200" alt="Picture of Linda Juliano" style="float: left; margin: 3px 12px 3px 0px; border-radius: 5px;">
