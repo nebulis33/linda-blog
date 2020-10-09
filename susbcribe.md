@@ -5,7 +5,7 @@ additional_tags: <meta name="robots" content="noindex">
 permalink: "/subscribe"
 
 ---
-Please feel free to subscribe to my newsletter below. I send out an email about once a month, sometimes more if there is an important announcement. The newsletter contains info on my latest blog posts, my latest published works, as well as general thoughts and reading recomendations exclusice to the newsletter. You can unsubscribe at anytime and I don't personally collect or sell any email addresses or personal informatioin.
+Please feel free to subscribe to my newsletter below. I send out an email about once a month, sometimes more if there is an important announcement. The newsletter contains info on my latest blog posts, my latest published works, as well as general thoughts and reading recommendations exclusive to the newsletter. You can unsubscribe at anytime and I don't personally collect or sell any email addresses or personal information.
 
 <div class="form-container">
 <form name="subscribe" aria-label="sign up for my newsletter" method="POST" action="https://tinyletter.com/LindaJuliano" target="popupwindow" onsubmit="window.open('https://tinyletter.com/LindaJuliano', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
