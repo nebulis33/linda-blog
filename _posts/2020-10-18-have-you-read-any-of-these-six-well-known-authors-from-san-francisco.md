@@ -10,8 +10,6 @@ summary: Six authors from San Francisco and the Bay Area whose books I've read a
 ---
 I have compiled a list of six authors whose books I've read and enjoyed. They are all from either San Francisco specifically (my hometown), or the Bay Area. Of course, there are so many more authors, dead and alive, famous or not, from the area, but these are the ones I know I've read and enjoyed. So far!
 
-Here is a link to an SF Gate article that lists several more authors whose books you may wish to check out. [https://www.sfgate.com/](https://www.sfgate.com/ "https://www.sfgate.com/")
-
 ![architectural photography of brown bridge](https://images.unsplash.com/photo-1565296465351-db5a30bd846a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
 I encourage you to read at least the books I've mentioned below, but you'll find several more books from these authors that I'm sure are well worth your time. In no particular order:
