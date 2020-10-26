@@ -2,7 +2,7 @@
 layout: post
 title: Have you read any of these six well-known authors from San Francisco?
 date: 2020-10-18 07:00:00 +0000
-tags: Author, Book-list, Bay-Area-Writers, San-Francisco-Authors
+tags: Author Book-list Bay-Area-Writers San-Francisco-Authors
 tagline: San Francisco authors to read.
 summary: Six authors from San Francisco and the Bay Area whose books I've read and
   enjoyed.

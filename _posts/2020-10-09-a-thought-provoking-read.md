@@ -2,7 +2,7 @@
 layout: post
 title: A Thought Provoking Read
 date: 2020-10-09 07:00:00 +0000
-tags: books, Eugenics, review, historical-fiction
+tags: books review historical-fiction
 tagline: Review of the book "Necessary Lies".
 summary: The practice of eugenics in the United States isn't widely known, but it
   is worth a discussion. This book will get you thinking.
