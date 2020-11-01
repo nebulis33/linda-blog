@@ -13,7 +13,7 @@ Although the chances of what happens in the book [“Vox”](https://www.amazon.
 
 Throughout history, women have fought for rights and freedoms, but here is a look at what it might look like if women lost any of those hard-won battles in present times.
 
- ![14-yr. old striker, Fola La Follette, and Rose Livingston](https://images.unsplash.com/photo-1576570734316-e9d0317d7384?ixlib=rb-1.2.1&w=1000&q=80)
+![14-yr. old striker, Fola La Follette, and Rose Livingston](https://images.unsplash.com/photo-1576570734316-e9d0317d7384?ixlib=rb-1.2.1&w=1000&q=80)
 
 Now, imagine if society had the ability to prevent any specific group from being stripped of certain (or all) freedoms and they didn’t act on it. (Not too hard to imagine, is it?). Instead, people, including the ones targeted, dismissed all the warnings as hyperbole.
 
