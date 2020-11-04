@@ -2,8 +2,7 @@
 layout: post
 title: Could The Frightening Premise of This Dystopian Fantasy Ever Happen?
 date: 2020-11-01 07:00:00 +0000
-tags: Vox, Dystopian-society, dystopian-future-for-women, Christina-Dalcher-Book,
-  no-voice
+tags: Vox, Dystopian-society dystopian-future-for-women Christina-Dalcher-Book no-voice
 tagline: Sometimes dystopian fiction has a message that resonates
 summary: When a fiction book creates a world that is more believable than it should
   be, it will make you think. And isn't that the point?
