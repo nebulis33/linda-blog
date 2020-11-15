@@ -9,7 +9,7 @@ sections:
   create: all
 - type: jekyll-pages
   label: Pages
-  create: all
+  create: none
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
