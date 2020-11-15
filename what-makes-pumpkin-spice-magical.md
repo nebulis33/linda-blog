@@ -17,9 +17,9 @@ After all, nutmeg, the main ingredient of pumpkin spice has been used by humans 
 
 We find familiarity and comfort with both the scent and the taste. And it reminds us of the holidays, of being cozy and happy. So it’s understandable why it might be the ultimate comfort food.
 
-Still, is it necessary for there to be over a hundred food and drink items that are now offered in pumpkin spice flavor? It’s a bit over-the-top these days.
+Still, is it necessary for there to be over a hundred food and drink items that are now offered in pumpkin spice flavor? It’s a bit over-the-top in my humble opinion.
 
-Or is it? Maybe pumpkin spice Cheerios, or Jell-O, or pretzels get your taste buds tingling? Or pumpkin spice chocolate squares? And don't forget to throw in the candles, too!
+Or is it? Maybe pumpkin spice Cheerios, Oreos, Jell-O, or pretzels get your taste buds tingling? Or how about pumpkin spice chocolate squares and caramel corn? These are all real things! And pumpkin spice kale chips? Say what?
 
 In reality, it turns out that it's not so much the flavor of pumpkin spice we seem to be obsessed with (not entirely), but with the _idea_ of it and how it makes us feel on an emotional level. Everything always seems to go there, doesn’t it? To the emotions?
 
