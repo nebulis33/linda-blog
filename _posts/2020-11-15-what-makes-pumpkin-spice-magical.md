@@ -2,7 +2,7 @@
 layout: post
 title: What Makes Pumpkin Spice Magical?
 date: 2020-11-15 08:00:00 +0000
-tags: Pumpkin-Spice Scent Comfort  Romantic Holidays
+tags: Pumpkin-Spice Scent Comfort Romantic Holidays
 tagline: The draw of pumpkin spice
 summary: Pumpkin spice has been a popular ingredient in many comfort foods for ages,
   but why are we so drawn to it?
