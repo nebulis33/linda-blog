@@ -10,12 +10,18 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  default: now
+  hidden: false
 - type: text
   name: tags
   label: tags
+  description: 'Separate distinct words using spaces not commas, words that are tow
+    (like Pumpkin Spice) should have a dash in place of the space (Pumpkin-Spice) '
 - type: text
   name: tagline
   label: tagline
