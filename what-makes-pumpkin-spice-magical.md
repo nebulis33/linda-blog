@@ -6,7 +6,6 @@ tags: Pumpkin-Spice Scent Comfort  Romantic Holidays
 tagline: The draw of pumpkin spice
 summary: Pumpkin spice has been a popular ingredient in many comfort foods for ages,
   but why are we so drawn to it?
-published: false
 
 ---
 Okay, so pumpkin spice isn’t exactly magical, but it does hold a certain kind of power. I’d go as far as saying pumpkin spice even has a certain element of romance to it.
