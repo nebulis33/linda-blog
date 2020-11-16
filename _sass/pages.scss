@@ -83,7 +83,7 @@ input[type=text], input[type=email], select, textarea {
   list-style: "📚 ";
 }
 
-section.content ul:last-of-type li {
+section.content ul:not(.tag-list):last-of-type li {
   list-style: "🏆 ";
 }
 
