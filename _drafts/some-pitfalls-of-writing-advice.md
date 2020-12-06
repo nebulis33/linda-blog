@@ -8,7 +8,9 @@ summary: There is a lot of advice for writers out there, but what works for one 
   may not be good for another.
 
 ---
-Over the years of climbing my way up the ladder in the world of writing, I’ve read and heard countless pieces of advice on how to be a writer and here’s what I’ve concluded: be wary of advice. There is no lack of information on the best practices of writing, but is it all good? Absolutely not. Why? Because we all have our own writing practices that work for us. What works for Sarah Gullund Doesn’t necessarily work for Emily Giffin. The key is finding what works for YOU.
+Over the years of climbing my way up the ladder in the world of writing, I’ve read and heard countless pieces of advice on how to be a writer and here’s what I’ve concluded: be wary of advice. There is no lack of information on the best practices of writing, but is it all good? Absolutely not. Why? Because we all have our own writing practices that work for us.
+
+What works for [Sarah Gullund](https://www.google.com/search?q=Sarah+Gulland+books&oq=Sarah+Gulland+books&aqs=chrome..69i57j33i160.3727j0j4&sourceid=chrome&ie=UTF-8 "Sarah Gullund") Doesn’t necessarily work for [Emily Giffin](https://www.google.com/search?ei=GTTNX9rzHczIsAXov5q4Dw&q=emily+giffin+books&oq=Emily+Giffin+books&gs_lcp=CgZwc3ktYWIQARgAMgUIABCxAzICCAAyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjICCAAyAgguMgIIADICCAA6BQghEKsCOgQIABANUOXUAliA8QJgj4MDaAFwAHgAgAGOAYgB5g6SAQQwLjE1mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab "Emily Giffin") (two of my favorite authors, by the way). The key is finding what works for YOU.
 
 Here are just a few examples (in a sea of many) of advice topics that should be taken lightly, especially for newer writers:
 
@@ -44,8 +46,6 @@ Here is a good quote by Neil Gaiman to keep in mind as you develop your own pers
 
 _"Remember: when people tell you something's wrong or doesn't work for them, they are almost always right. when they tell you exactly what they think is wrong and how to fix it, they are almost always wrong."_
 
-                                                                                      
-
 Happy reading!
 
-**Book recommendation:** All the books in Angela Ackerman’s and Becca Puglisi’s [Thesaurus collection](https://writershelpingwriters.net/writers-helping-writers-descriptive-thesaurus-collection/ "Thesaurus collection"). The Emotion Thesaurus is a favorite edition, but they are all useful tools to have in your evergrowing writing toolbox.
+**Book recommendation:** All the books in Angela Ackerman’s and Becca Puglisi’s [Thesaurus collection](https://writershelpingwriters.net/writers-helping-writers-descriptive-thesaurus-collection/ "Thesaurus collection"). The Emotion Thesaurus is a favorite edition, but they are all useful tools to have in your ever-growing writing toolbox.
