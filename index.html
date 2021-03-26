@@ -10,12 +10,9 @@ description: Welcome to the official site of author Linda Juliano! Read my lates
 
 <main>
     <div class="hero">
+        <h1>Linda Juliano</h1>
     </div>
-    <section class="about">
-        <h2>About Me</h2>
-        <p>Welcome to my site!  My name is Linda Juliano and I'm a full time, published author.  Read more about me on my <a href="/about">About page</a>!</p>
-    </section>
-
+    
     <section class="whats-new">
         <h2>Whats new</h2>
         <ul>
@@ -23,19 +20,23 @@ description: Welcome to the official site of author Linda Juliano! Read my lates
             <li>Besides the site redisign, I have launched a newsletter.  Visit the <a href="/subscribe">subscribe page</a> to learn more and sign up!</li>
         </ul>
     </section>
-
-
+    
+    
     <section class="latest">
         <h2>Latest Posts</h2>
         <div class="cards">
             {% for post in site.posts limit: 3 %}
-                <article onclick="location.href='{{ post.url }}';" onkeydown= "if(event.keyCode == 13)location.href='{{ post.url }}';" style="cursor: pointer;" tabindex=0 class="post_preview">
-                    <h3>{{ post.title }}</h3>
-                    <h4>{{ post.date | date: '%B %-d, %Y' }}</h4>
-                    <p>{{ post.summary }}</p>
-                </article>
+            <article onclick="location.href='{{ post.url }}';" onkeydown= "if(event.keyCode == 13)location.href='{{ post.url }}';" style="cursor: pointer;" tabindex=0 class="post_preview">
+                <h3>{{ post.title }}</h3>
+                <h4>{{ post.date | date: '%B %-d, %Y' }}</h4>
+                <p>{{ post.summary }}</p>
+            </article>
             {% endfor %}
         </div>
     </section>
-
+    
+    <section class="about">
+        <h2>About Me</h2>
+        <p>Welcome to my site!  My name is Linda Juliano and I'm a full time, published author.  Read more about me on my <a href="/about">About page</a>!</p>
+    </section>
 </main>
