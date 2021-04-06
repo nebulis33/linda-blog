@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-03-28 16:27:11 +0000
-title: What is shinrin-yoku and what can it to for you?
+title: What is shinrin-yoku and what can it do for you?
 tags: forest-bathing shinrin-yoku meditation health immune-boosting mental-health
 tagline: Forest-bathing is an excellent way to increase your immune health and mental
   health
