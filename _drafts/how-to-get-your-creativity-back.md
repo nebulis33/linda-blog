@@ -10,6 +10,8 @@ summary: Taking a break from being creative is one way to stimulating your creat
 ---
 As artists of any kind, we may come to our calling naturally, but it isn’t always easy to be focused or creative. Life happens. No matter what level of talent you have, or how dedicated to your art you are, sometimes you need a break. Or you may be in need of a push to get back into the groove after that break.
 
+![woman lying on flowers during daytime](https://images.unsplash.com/photo-1514673740976-ef7bb685f398?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80)
+
 **The best way to stay creative and sane?** Be mindful of when your creativity is in a slump and don’t be so hard on yourself. Give yourself permission to move in and out of your creative mode. No one can do anything all of the time except maybe breathing; and while we can’t take a break from breathing, we all need to allow ourselves creative breaks now and again.
 
 **What to do when your creativity takes a break without permission?** You immerse yourself in that form of art. For example, if you are a painter or sculptor, visit a few museums to surround yourself with your passion. Or if you sing, watch some musicals or listen to music. And if you are a writer, read.
@@ -29,5 +31,7 @@ _“There is no doubt that creativity is the most important human resource of al
 **_Book Recommendation/suggestion:_**
 
 “_Paris For One And Other Stories_”, by Jojo Moyes
+
+![Paris for One and Other Stories](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459435391l/29430049.jpg)
 
 A great book of short stories to dive into! I loved this book, and I hope you will as well.
