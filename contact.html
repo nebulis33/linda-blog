@@ -10,7 +10,12 @@ permalink: /contact
 </article>
 
 <div class="form-container page-content">
-    <form name="contact" aria-labbel="fill out this form to send me a message" method="POST" data-netlify="true">
+    <form name="contact" aria-labbel="fill out this form to send me a message" method="POST" netlify-honeypot="bot-field" data-netlify-recaptcha="true" data-netlify="true">
+
+        <p style="display:none">
+          <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+        </p>
+      
       <label for="fname">Full Name</label>
       <input type="text" id="fname" name="fullname" placeholder="Your name...">
   
@@ -28,6 +33,8 @@ permalink: /contact
   
       <label for="message">Message</label>
       <textarea id="message" name="message" placeholder="Your message..." style="height:200px"></textarea>
+
+      <div data-netlify-recaptcha="true"></div>
   
       <input type="submit" value="Submit">
     </form>
