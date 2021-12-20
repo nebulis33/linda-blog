@@ -9,7 +9,7 @@ summary: Christmas traditions vary around the world, but at their heart, they ar
 permalink: /2021/12/19/the-worst-christmas-tradition-ever/
 
 ---
-The Worst Christmas Tradition…Ever
+The Worst Christmas Tradition. Ever.
 
 I was watching a program on PBS recently about European Christmas traditions when I was struck by one particular tradition that shocked me. I’d never heard of the legend of [Krampus](https://www.britannica.com/topic/Krampus "Krampus"),  half-goat, half-demon monster that is in charge of punishing naughty children during the Christmas season.
 
