@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-12-19 23:34:49 +0000
-title: The Worst Christmas Tradition...Ever
+title: The Worst Christmas Tradition Ever
 tags: Christmas Traditions Krampus Eastern-European
 tagline: Some Christmas traditions don't seem at all Christmas friendly at first glance
 summary: Christmas traditions vary around the world, but at their heart, they are
