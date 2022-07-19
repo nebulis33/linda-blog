@@ -4,8 +4,9 @@ title: Published Work
 permalink: "/published-work"
 
 ---
-While my main focus is full length novels, I also occasionally write short stories. Feel free to explore my published works, and be sure to check
-back often to see any new additions to the list.
+I invite you to explore my published works. Be sure to check back often to see any new additions to the list.
+
+I'm currently writing my second novel.
 
 ### My Novels:
 
