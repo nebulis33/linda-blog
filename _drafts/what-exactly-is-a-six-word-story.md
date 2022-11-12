@@ -18,7 +18,7 @@ I recently accepted a challenge that required me to write a story in only six wo
 
 At first, I thought it was an outrageous demand for a writing contest. How can you write a story in so few words, right? There’s no way. But there actually is a way. Below are some examples of six-word stories from authors you may know.
 
-One of the most well-known of these short stories is believed to be written by Ernest Hemingway:
+One of the most well-known of these short stories is believed to have been written by Ernest Hemingway:
 
 “For sale: baby shoes. Never worn.”
 
