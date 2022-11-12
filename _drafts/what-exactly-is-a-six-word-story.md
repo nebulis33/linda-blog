@@ -20,7 +20,7 @@ At first, I thought it was an outrageous demand for a writing contest. How can y
 
 One of the most well-known of these short stories is believed to have been written by Ernest Hemingway:
 
-“For sale: baby shoes. Never worn.”
+     “For sale: baby shoes. Never worn.”
 
 It makes you think, doesn’t it? A heartbreaking story told in a few words but also related to us through the parts left out. Those missing parts, or words, are where we, the readers, pick up the story's narrative and expand it.
 
