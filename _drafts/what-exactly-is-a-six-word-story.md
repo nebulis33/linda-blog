@@ -46,6 +46,8 @@ An example of a humorous six-word story:
 
      “I’m beside myself; cloning machine works.”
 
+![text](https://images.unsplash.com/photo-1589829068065-20154e8f9642?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aG93fGVufDB8fDB8fA%3D%3D&w=1000&q=80)
+
 I think you get the point. For a more in-depth conversation about the six-word story or memoir and how to write one, visit a wonderful [MasterClass](https://www.masterclass.com/articles/how-to-write-an-unforgettable-six-word-story "MasterClass") article on the subject.
 
 When writing _any_ length of story, you want every phrase to count. With a six-word story, it’s imperative you make every _word_ count.
